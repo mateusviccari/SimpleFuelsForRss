@@ -16,6 +16,7 @@ In game, use the provided buttons on tanks and engines to switch fuel combinatio
 
 - KSP 1.12.x
 - [Community resource pack](https://github.com/BobPalmer/CommunityResourcePack)
+- [Community tech tree](https://github.com/post-kerbin-mining-corporation/CommunityTechTree/releases)
 - [Real Solar System](https://github.com/KSP-RO/RealSolarSystem/releases) (or any similar sized system) along with its dependencies (get Kopernicus from [here](https://github.com/kopernicus/kopernicus/releases)). This is not a hard dependency but you don't really want to play this in stock game.
 
 # Licence
