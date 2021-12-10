@@ -2,6 +2,8 @@
 
 A Kerbal Space Program set of config files to add real(ish) fuels to the game, balanced to play on Real Solar System or any other 10x Kerbol system size.
 
+[Forum thread](https://forum.kerbalspaceprogram.com/index.php?/topic/205779-v001ksp-112x-simple-fuels-for-rss-have-fun-exploring-the-solar-system-with-stockstockalike-parts-and-realish-fuels/)
+
 # Installation
 
 - Make sure the latest version of ModuleManager is installed
